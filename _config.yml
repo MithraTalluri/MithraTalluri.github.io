@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Adit Deshpande
+name: Mithra Talluri
 
 # Short bio or description (displayed in the header)
-description: CS Undergrad at UCLA ('19)
+description: Software Engineer at TA Digital
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: "/images/pic.jpg"
@@ -18,15 +18,15 @@ avatar: "/images/pic.jpg"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: adeshpande3@g.ucla.edu
-  facebook: aditdeshpande3
+  email: tlns.mithra@gmail.com
+  facebook: 
   flickr:
-  github: adeshpande3
-  instagram: aditdeshpande3
-  linkedin: aditdeshpande3
+  github: MithraTalluri
+  instagram: 
+  linkedin: mithratalluri
   pinterest:
-  rss: adeshpande
-  twitter: aditdeshpande3
+  rss: 
+  twitter: mithratalluri
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
