@@ -8,7 +8,7 @@ permalink: /projects/
 Image Classification Using Convolutional Neural Networks
 ========================================================
 
-- **Image Classification Using Convolutional Neural Networks**: Used CIFAR-10 dataset & TFLearn library to train a convolutional neural network to classify a given image with an accuracy of 86.3%
+**Image Classification Using Convolutional Neural Networks**: Used CIFAR-10 dataset & TFLearn library to train a convolutional neural network to classify a given image with an accuracy of 86.3%
 
 Stock Price Prediction Using Support Vector Machine
 ===================================================
