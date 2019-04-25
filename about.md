@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I make things for the web. I usually blog about Data Structures and Algorithms and other nerdy things. Currently working for [TA Digital](https://www.tadigital.com/){:target="_blank"}. 
+I make things for the web. I usually blog about Data Structures and Algorithms and other nerdy things. 
 
 ### Internships and Experience
 
