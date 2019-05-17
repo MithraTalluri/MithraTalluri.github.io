@@ -62,10 +62,21 @@
 					"    </h1>\r\n" +
 					"    <div class=\"entry\">\r\n" +
 					"        Here is some sample content for the blog post\r\n" +
-					"        <div class=\"post-image\" style=\"background-image: url('" + postThumbnailSrc + "')\"></div>\r\n" +
+					"        <img src=\"" + postThumbnailSrc + "\"/>\r\n" +
 					"    </div>\r\n" +
 					"    <a href=\"" + postURL + "\" class=\"read-more\">Read More</a>\r\n" +
 					"</article>";
+
+				// postsData += "<article class=\"post\" onclick=\"window.open('" + postURL + "', '_blank');\" style=\"cursor:pointer;\">\r\n" +
+				// 	"    <h1>\r\n" +
+				// 	"        <a href=\"" + postURL + "\" target=\"_blank\">" + postTitle + "</a>\r\n" +
+				// 	"    </h1>\r\n" +
+				// 	"    <div class=\"entry\">\r\n" +
+				// 	"        Here is some sample content for the blog post\r\n" +
+				// 	"        <div class=\"post-image\" style=\"background-image: url('" + postThumbnailSrc + "')\"></div>\r\n" +
+				// 	"    </div>\r\n" +
+				// 	"    <a href=\"" + postURL + "\" class=\"read-more\">Read More</a>\r\n" +
+				// 	"</article>";
 			}
 		}
 		document.getElementById("medium-posts").innerHTML = postsData;
@@ -76,6 +87,8 @@
 
 <style>
 	.post-image {
+		width: 810px;
+		height: 276px;
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: 50% 50%;
