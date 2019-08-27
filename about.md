@@ -8,7 +8,7 @@ I make things for the web and mobile. I usually blog about Data Structures and A
 
 ### Work Experience
 
-<img src="/assets/sureify.png" width="250">                     <img src="/assets/opentext.png" width="250">                     <img src="/assets/bothook.jpg" width="80">
+<img src="/assets/sureify.png" width="250">&nbsp;&nbsp;<img src="/assets/opentext.png" width="250">&nbsp;&nbsp;<img src="/assets/bothook.jpg" width="80">
 
 * Junior Software Engineer at [Sureify](https://www.sureify.com/){:target="_blank"} (August 2019 - Present) 
 * Engineering Intern at [OpenText](https://www.opentext.com/){:target="_blank"} (June 2018 - November 2018) 
