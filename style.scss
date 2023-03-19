@@ -136,6 +136,16 @@ strong, b {
   font-weight: bold;
 }
 
+.post-img {
+  max-width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  object-fit: cover;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
 img {
   max-width: 100%;
 }
