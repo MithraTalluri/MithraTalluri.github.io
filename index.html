@@ -2,7 +2,20 @@
 layout: default
 ---
 
-<div class="posts" id="medium-posts">
-</div>
+<div class="posts">
+    {% for post in site.posts %}
+    <article class="post">
 
-<script src="fetchMediumPosts.js"></script>
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+        <div class="entry">
+
+            {{ post.excerpt }}
+            {% assign image = post.images[0] %}
+            {% include image.html image=image %}
+        </div>
+
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+    {% endfor %}
+</div>
