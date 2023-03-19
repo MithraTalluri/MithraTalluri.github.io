@@ -8,7 +8,7 @@ I make things for the web and mobile. I usually blog about Data Structures and A
 
 ### Work Experience
 
-<img src="/assets/sureify.png" width="250">&nbsp;&nbsp;<img src="/assets/opentext.png" width="250">&nbsp;&nbsp;<img src="/assets/bothook.jpg" width="80">&nbsp;&nbsp;<img src="/assets/traveloka.png" width="250">&nbsp;&nbsp;<img src="/assets/jumbotail.png" width="250">
+<img src="/assets/sureify.png" height="100" width="250">&nbsp;&nbsp;<img src="/assets/opentext.png" height="100" width="250">&nbsp;&nbsp;<img src="/assets/bothook.jpg" height="100" width="80">&nbsp;&nbsp;<img src="/assets/traveloka.png" height="100" width="250">&nbsp;&nbsp;<img src="/assets/jumbotail.png" height="100" width="250">
 
 * Software Engineer at [Jumbotail](https://www.jumbotail.com/){:target="_blank"} (August 2022 - November 2022)
 * Software Engineer II at [Traveloka](https://www.traveloka.com/){:target="_blank"} (August 2021 - August 2022)
