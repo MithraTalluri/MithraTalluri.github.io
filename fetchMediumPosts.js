@@ -46,7 +46,7 @@ function displayContentFromJSON(obj) {
                 "        <a href=\"" + postURL + "\" target=\"_blank\">" + postTitle + "</a>\r\n" +
                 "    </h1>\r\n" +
                 "    <div class=\"entry\">\r\n" + postDesc +
-                "        <img src=\"" + postThumbnailSrc + "\" onclick=\"window.open('" + postURL + "', '_blank');\" class=\"post-img\"/>\r\n" +
+                "        <img src=\"" + postThumbnailSrc + "\" onclick=\"window.open('" + postURL + "', '_blank');\"/>\r\n" +
                 "    </div>\r\n" +
                 "    <a href=\"" + postURL + "\" class=\"read-more\" target=\"_blank\">Read More</a>\r\n" +
                 "</article>";
