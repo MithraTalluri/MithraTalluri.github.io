@@ -65,5 +65,5 @@ function getDescription(desc) {
         f = desc.indexOf("<p>");
         e = desc.indexOf("</p>");
     }
-    return descStr.length > 150 ? descStr.substring(0, 150) + "..." : descStr;
+    return descStr.length > 100 ? descStr.substring(0, 100) + "..." : descStr;
 }
