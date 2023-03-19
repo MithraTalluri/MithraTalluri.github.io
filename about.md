@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I make things for the web and mobile. I usually blog about Data Structures and Algorithms and other nerdy things. 
+I make things for the web and mobile. I usually blog about System Design, Data Structures and Algorithms and other areas of Software Development. 
 
 ### Work Experience
 
-<img src="/assets/sureify.png" height="80" width="250">&nbsp;&nbsp;<img src="/assets/opentext.png" height="80" width="250">&nbsp;&nbsp;<img src="/assets/bothook.jpg" height="80" width="80">&nbsp;&nbsp;<img src="/assets/traveloka.png" height="80" width="250">&nbsp;&nbsp;<img src="/assets/jumbotail.png" height="80" width="250">
-
-* Software Engineer at [Jumbotail](https://www.jumbotail.com/){:target="_blank"} (August 2022 - November 2022)
+* Software Development Engineer at [Jumbotail](https://www.jumbotail.com/){:target="_blank"} (August 2022 - November 2022)
 * Software Engineer II at [Traveloka](https://www.traveloka.com/){:target="_blank"} (August 2021 - August 2022)
 * Software Engineer at [Sureify](https://www.sureify.com/){:target="_blank"} (August 2019 - February 2021) 
 * Engineering Intern at [OpenText](https://www.opentext.com/){:target="_blank"} (June 2018 - November 2018) 
