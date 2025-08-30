@@ -8,6 +8,7 @@ I make things for the web and mobile. I usually blog about System Design, Data S
 
 ### Work Experience
 
+* Senior Software Engineer at [Infra.Market](https://infra.market/){:target="_blank"} (April 2023 - Present)
 * Software Development Engineer at [Jumbotail](https://www.jumbotail.com/){:target="_blank"} (August 2022 - November 2022)
 * Software Engineer II at [Traveloka](https://www.traveloka.com/){:target="_blank"} (August 2021 - August 2022)
 * Software Engineer at [Sureify](https://www.sureify.com/){:target="_blank"} (August 2019 - February 2021) 
